@@ -6,6 +6,8 @@
 
 Comet不是又一个"套壳浏览器"。它是[Perplexity](https://pplx.ai/ixkwood69619635)推出的智能浏览器，能直接"看懂"你屏幕上的内容，然后帮你干活。不用跳转，不用复制粘贴，AI就在你浏览的页面里。这篇文章会告诉你：Comet到底是什么、怎么装上它、以及如何用它解决实际工作中的问题。
 
+<img width="1200" height="795" alt="image" src="https://github.com/user-attachments/assets/64bb1d34-f7df-4fc9-b2b4-23b3838e3b86" />
+
 ---
 
 ## 什么是Comet？为什么叫"智能浏览器"？
