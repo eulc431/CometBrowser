@@ -6,7 +6,7 @@
 
 Comet不是又一个"套壳浏览器"。它是[Perplexity](https://pplx.ai/ixkwood69619635)推出的智能浏览器，能直接"看懂"你屏幕上的内容，然后帮你干活。不用跳转，不用复制粘贴，AI就在你浏览的页面里。这篇文章会告诉你：Comet到底是什么、怎么装上它、以及如何用它解决实际工作中的问题。
 
-<img width="1200" height="795" alt="image" src="https://github.com/user-attachments/assets/64bb1d34-f7df-4fc9-b2b4-23b3838e3b86" />
+<img width="2606" height="1398" alt="image" src="https://github.com/user-attachments/assets/90327ffa-b6a5-4b66-9a37-be8b78609187" />
 
 ---
 
@@ -27,6 +27,10 @@ Comet基于**Chromium内核**——和Chrome、Edge用的是同一套底层技�
 - **跨标签页对比**：你同时打开了三款WordPress主机服务的页面，问它"对比这三家的价格和性能"，它会整理成表格给你。
 
 简单说，Comet想做的事情是：**让浏览器从"信息展示工具"变成"任务执行助手"**。
+
+<img width="900" height="595" alt="image" src="https://github.com/user-attachments/assets/4453258d-132b-4384-8b23-960e5d1a1d96" />
+
+<img width="2111" height="1187" alt="image" src="https://github.com/user-attachments/assets/152e9976-bc6c-4215-9463-bf0a8665f915" />
 
 ---
 
